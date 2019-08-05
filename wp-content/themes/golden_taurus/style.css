@@ -1,0 +1,11 @@
+/* Add here all your CSS customizations */
+.logo-golden img{
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover;
+}
+.logo-golden{
+    display: flex !important;
+    justify-content: center  !important;
+    align-items: center  !important;
+}
